@@ -18,4 +18,5 @@ take help of (gitignore.io) for making gitignore files.
 
 use command "checkout -b required name" for naming and checking out new branch.
 
+"git branch "branch name" creates a branch.
 git branch -D "branch name" deletes the branch.
