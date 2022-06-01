@@ -17,3 +17,5 @@ ls -la- this command shows all hidden folders.
 take help of (gitignore.io) for making gitignore files.
 
 use command "checkout -b required name" for naming and checking out new branch.
+
+git branch -D "branch name" deletes the branch.
